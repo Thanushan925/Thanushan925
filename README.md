@@ -1,8 +1,8 @@
-# 💫About Me :\
+# 💫About Me :
 🌱 I’m currently learning React.JS\
 👯 I’m looking to collaborate on various projects\
 👨‍💻 All of my projects will soon be available on my Portfolio Website\
-📫 Reach me at thanush925@gmail.com\
+📫 Reach me at thanush925@gmail.com
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/FlamingNinja925#6638) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thanushan925) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/FlamingNinja925) 
