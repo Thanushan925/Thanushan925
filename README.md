@@ -1,5 +1,5 @@
 ## 💫About Me :
-🌱 I’m currently learning React\.JS\
+🌱 I’m currently learning React\.js\
 👯 I’m looking to collaborate on various projects\
 👨‍💻 All of my projects will soon be available on my Portfolio Website\
 📫 Reach me at thanush925@gmail.com
