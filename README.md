@@ -1,6 +1,6 @@
 # 💫 About Me:
-🌱 I’m currently learning React.js
-👯 I’m looking to collaborate on various projects
+🌱 I’m currently learning React.js <br>
+👯 I’m looking to collaborate on various projects <br>
 😄 Pronouns: He/Him
 
 ## 💻 Tech Stack:
