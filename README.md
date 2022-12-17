@@ -1,7 +1,7 @@
 # 💫 About Me:
-- 🌱 I’m currently learning React.js
-- 👯 I’m looking to collaborate on various projects
-- 😄 Pronouns: He/Him
+🌱 I’m currently learning React.js
+👯 I’m looking to collaborate on various projects
+😄 Pronouns: He/Him
 
 ## 💻 Tech Stack:
 Software Dev: ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
