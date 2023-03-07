@@ -1,5 +1,7 @@
-# 💫 About Me:
-🌱 I’m currently learning React.js <br>
+# Hey, I'm Thanushan
+
+## 💫 About Me:
+🌱 I’m currently learning React.js and SQL <br>
 👯 I’m looking to collaborate on various projects <br>
 😄 Pronouns: He/Him
 
