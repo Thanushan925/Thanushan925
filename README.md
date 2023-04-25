@@ -1,5 +1,5 @@
-<h1 align="center">Hey, I'm Thanushan 👋</h1>
-<h3 align="center">An Undergraduate Computer Science Student</h3>
+<h1>Hey, I'm Thanushan 👋</h1>
+<h3>An Undergraduate Computer Science Student</h3>
 
 - 🔭 I’m currently working on **a Project using MERN Stack**
 
