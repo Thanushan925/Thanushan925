@@ -1,9 +1,8 @@
 <h1 align="left">Hey, I'm Thanushan 👋</h1>
 <h3 align="left">An Undergraduate Computer Science Student</h3>
 
-- 🔭 I’m currently working on **a Project using MERN Stack**
-
-- 🌱 I’m currently learning **ReactJS and SQL**
+- 🔭 I’m currently working on a **Marketplace Project using MERN Stack**
+- 🌱 I’m currently learning **ReactJS, SQL, and Vulkan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
