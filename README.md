@@ -1,5 +1,5 @@
 # Hey, I'm Thanushan 👋
-## An Undergraduate Computer Science Student
+### An Undergraduate Computer Science Student
 
 🛠️ I’m currently working on:<br>- Marketplace Project using MERN Stack<br>- 2D Sidescroller Game using Godot 4<br><br>📚 I’m currently learning: <br>- OpenGL<br>- Vulkan
 
